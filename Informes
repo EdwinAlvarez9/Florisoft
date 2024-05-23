@@ -1,1 +1,17 @@
+Informes de análisis de la red
+Análisis del tráfico de red: Se examina el flujo de datos, utilizando protocolos, dispositivos conectados y la distribución de los datos.
+Evaluación de la capacidad: Determinamos la capacidad actual de la red y si puede soportar futuros aumentos de carga de datos.
+Identificación de cuellos de botella y problemas: Detectamos los puntos débiles que afectan el rendimiento o la estabilidad y se busca solucionarlos.
+Recomendaciones de mejora: Sugieren cambios en las configuración, hardware o arquitectura para optimizar el funcionamiento de la red.
 
+Pruebas de rendimiento y seguridad
+Pruebas de carga: Se hace simulación de altos niveles de tráfico para medir los límites del rendimiento.
+Análisis de vulnerabilidades: Identificamos los puntos débiles en las configuraciones o el software para que puedan ser explotados.
+Pruebas de acceso: Intentamos acceder al sistema de manera autorizada para así encontrar y solucionar vulnerabilidades en la aplicación.
+Pruebas de rendimiento: Sometemos al sistema a condiciones extremas para evaluar su estabilidad y recuperación.
+
+Registros de incidentes
+Identificar y solucionar problemas: Nos permiten analizar las causas de los incidentes.
+Cumplir con requisitos normativos: Muchas regulaciones exigen mantener registros de incidentes.
+Mejorar la seguridad: Los registros ayudan a detectar patrones de actividad sospechosa y solución.
+Respaldar investigaciones y auditorías: Proporcionan evidencia detallada de los eventos ocurridos durante los últimos días.
