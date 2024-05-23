@@ -1,1 +1,6 @@
-
+Durante el desarrollo de la aplicación web Florisoft llegamos a las conclusiones de que las tecnologías de información y comunicaciones son esenciales para que se haga la conectividad de una computadora 
+con la base de datos y otra con la aplicación web, para que así nuestro cliente pueda tener un acceso a toda la información referente a sus pedidos y así facilitar la entrega, pagos, catálogos, entre otros. 
+Donde también tuvimos experiencias durante el desarrollo de la aplicación ya que se presentaban problemas de conectividad con la base de datos al código que se realizo en visual studio donde se utilizo c#, framework, 
+etc, haciendo que al momento de consultar nuestra información utilizando los dispositivos cisco (router y switch) con la topología, este no se lograra tener acceso a el mismo, pero con la ayuda de nuestros profesores 
+logramos presentar el proyecto en nuestras computadoras, conectadas a las dispositivos cisco y que hicieron el intercambio de comandos para saber si están bien configuradas, para así mismo acceder a la información de 
+la base de datos referente a la empresa Floretti Amore de la Doctora Eunice Santiago Manzano, docente de nuestra institución académica.
